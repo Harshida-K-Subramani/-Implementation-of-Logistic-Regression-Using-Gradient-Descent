@@ -127,6 +127,19 @@ print(y_prednew)
 
 <img width="971" height="296" alt="exp6(4)" src="https://github.com/user-attachments/assets/f5e726fb-af21-4c94-b668-dd378a608bdd" />
 
+## Printing accuracy
+
+<img width="416" height="45" alt="exp6(5)" src="https://github.com/user-attachments/assets/4886f485-eef4-4cea-8231-75b0625e4863" />
+
+
+## Printing Y
+
+<img width="1002" height="206" alt="exp6(6)" src="https://github.com/user-attachments/assets/f0569938-d1b1-4cf7-b76d-a0edb2e3587e" />
+
+
+## Printing y_prednew
+
+<img width="475" height="56" alt="exp6(7)" src="https://github.com/user-attachments/assets/941507bf-4c3d-4e5b-b0ad-0dfccd8a5e7c" />
 
 
 ## Result:
